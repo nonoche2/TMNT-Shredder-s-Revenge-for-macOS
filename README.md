@@ -13,7 +13,7 @@ and drop the game files inside.
 1. Make sure Steam is running, then type steam://open/console in Safari.
 2. In the Steam console, type: download_depot 1361510 1361511
 3. For the DLC type: download_depot 1361510 2348930 (you must have purchased it for it to work)
-4. It’ll take about 20 minutes to download, but then it will show you a path to where the folder is located. It’s pretty deep in the MacOS file system, the easiest way to do that is through the Library folder. Open a new Finder window, press cmd + shift + g and a window will appear, paste the location that steam gave you a few moments earlier.
+4. It’ll take about 20 minutes to download, but then it will show you a path to where the folder is located. It’s pretty deep in the MacOS file system, the easiest way to do that is through the Library folder. Open a new Finder window, press cmd + shift + g and a window will appear, paste the location that steam gave you a few moments earlier (if Steam shows \ in the address, replace them with /)
 
 ## How to get the game files from Epic
 
