@@ -5,6 +5,9 @@ This is based on [JohnnyOnFlame](https://ko-fi.com/johnnyonflame)'s port for [Po
 You will need to provide the game files for this port to work. In the Finder, navigate to ~/Library/Application Support/, create a folder named TMNT
 and drop the game files inside.
 
+> [!CAUTION]
+> Known issue: the intro video will display blocky artifacts on some frames. This is due to the YUV to RGBa conversion for OpenGL, unfortunately I haven't been able to find a way to fix it. Contributions are welcome!
+
 ## How to get the game files from Steam
 
 1. Make sure Steam is running, then type steam://open/console in Safari.
