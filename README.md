@@ -6,7 +6,7 @@ You will need to provide the game files for this port to work. In the Finder, na
 and drop the game files inside.
 
 > [!CAUTION]
-> Known issue: the intro video will display blocky artifacts on some frames. This is due to the YUV to RGBa conversion for OpenGL, unfortunately I haven't been able to find a way to fix it. Contributions are welcome!
+> Known issue: the intro video will display blocky artifacts on some frames. I think it's due to the YUV to RGBa conversion for OpenGL, unfortunately I haven't been able to find a way to fix it. Contributions are welcome!
 
 ## How to get the game files from Steam
 
