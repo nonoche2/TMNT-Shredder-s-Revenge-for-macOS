@@ -1,6 +1,6 @@
 # TMNT-Shredder-s-Revenge-for-macOS
 
-This is based on [JohnnyOnFlame](https://ko-fi.com/johnnyonflame)'s port for [Portmaster](https://github.com/PortsMaster/PortMaster-New), using [FNA](https://fna-xna.github.io/) and [mono](https://gitlab.winehq.org/mono/mono) to run the game.
+This unofficial Mac port is based on [JohnnyOnFlame](https://ko-fi.com/johnnyonflame)'s port for [Portmaster](https://github.com/PortsMaster/PortMaster-New), using [FNA](https://fna-xna.github.io/) and [mono](https://gitlab.winehq.org/mono/mono) to run the game.
 
 You will need to provide the game files for this port to work. In the Finder, navigate to ~/Library/Application Support/, create a folder named TMNT
 and drop the game files inside.
